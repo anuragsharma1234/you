@@ -14,7 +14,7 @@ import time
 # Idef create_random_key()nsert your Telegram bot token here
 bot = telebot.TeleBot('7221793566:AAGELsE31S6xn1VCPgQu_vMXCyEWfK7Ph1U')
 # Admin user IDs
-admin_id = {"5406953620"}
+admin_id = {"5406953620" , "1246890065"}
 # Files for data storage
 USER_FILE = "users.json"
 LOG_FILE = "log.txt"
